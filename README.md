@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on GitOps projects
-- 🌱 I’m currently learning CKA
-- 👯 I’m looking to collaborate on Kubernetes/Terraform projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Devops any
+- 🌱 Learning for CKA
+- 👯 Collaborate on Kubernetes/Terraform projects
+- 🤔 Help with Devops/Gitops
+- 💬 Ask me about Devops/Gitops 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/borissh78)
 
 <!--
