@@ -4,7 +4,7 @@
 - 👯 Collaborate on Kubernetes/Terraform projects
 - 🤔 Help with Devops/Gitops
 - 💬 Ask me about Devops/Gitops 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/borissh78)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/borissh78)
 
 <!--
 **doker78/doker78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
