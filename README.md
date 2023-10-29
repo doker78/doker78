@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning CKA
 - 👯 I’m looking to collaborate on Kubernetes/Terraform projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Devops
-- 📫 How to reach me: LinkedIn
+- 💬 Ask me about Devops any
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/borissh78)
 
 <!--
 **doker78/doker78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
