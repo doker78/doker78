@@ -1,10 +1,11 @@
 ### Hi there 👋
+
+
 - 🔭 I’m currently working on GitOps projects
-- 🌱 Learning for CKA
-- 👯 Collaborate on Kubernetes/Terraform projects
+- 🌱 Learning for CKA and CKAD
+- 👯 Collaborate on Kubernetes and Terraform projects
 - 🤔 Help with Devops/Gitops
-- 💬 Ask me about Devops/Gitops 
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/borissh78)
+- 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/borissh78)
 
 <!--
 **doker78/doker78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
