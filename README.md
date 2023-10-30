@@ -1,11 +1,11 @@
 ### Ola 👋
 
 
-- 🔭 I’m currently working on GitOps projects 
-- 🌱 Learning for CKA and CKAD
-- 👯 Collaborate on Kubernetes and Terraform projects
-- 🤔 Help with Devops and Gitops
-- 📫 Reach me: [My LinkedIn Profile](https://www.linkedin.com/in/borissh78)
+- 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/) with GitOps principles
+- 🌱 Learning for [CKA](https://www.cncf.io/certification/cka/) and [CKAD](https://www.cncf.io/certification/ckad/)
+- 👯 Collaborate mostly with GitOps on Kubernetes and Terraform projects
+- 🤔 Help with Devops and Gitops and with learning path on [CKA training](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+- 📫 Reach me: [My LinkedIn Profile](https://www.linkedin.com/in/boris-bogdan-shkarupelov)
 
 <!--
 **doker78/doker78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
