@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/)
 - 🌱 Learning for [CKA](https://www.cncf.io/certification/cka/) and [CKAD](https://www.cncf.io/certification/ckad/)
-- 👯 Collaborate mostly with GitOps principles on Kubernetes and Terraform projects
+- 👯 Collaborate mostly on Kubernetes and Terraform projects
 - 🤔 Help with learning path for [CKA training](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 - 📫 Reach me: [My LinkedIn Profile](https://www.linkedin.com/in/boris-bogdan-shkarupelov)
 
