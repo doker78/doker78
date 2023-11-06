@@ -1,4 +1,4 @@
-### Ola 👋
+### Hi 👋
 
 
 - 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/)
