@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/)
 - 🌱 Learning for [CKA](https://www.cncf.io/certification/cka/) and [CKAD](https://www.cncf.io/certification/ckad/)
-- 👯 Collaborate mostly on Kubernetes and Terraform projects
-- 🤔 Help with GitOps...
+- 👯 Collaborate on Kubernetes and Terraform projects
+- 🤔 Help me if you know how to improve GitOps...
 - 📫 Reach me: [My LinkedIn Profile](https://www.linkedin.com/in/boris-bogdan-shkarupelov)
 
 <!--
