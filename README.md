@@ -1,23 +1,9 @@
 ### Hi 👋
 
 
-- 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/)
-- 🌱 Learning for [CKA](https://www.cncf.io/certification/cka/) and [CKAD](https://www.cncf.io/certification/ckad/)
-- 👯 Collaborate on Kubernetes and Terraform projects
-- 🤔 Help me if you know how to improve GitOps...
-- 📫 Reach me: [My LinkedIn Profile](https://www.linkedin.com/in/boris-bogdan-shkarupelov)
-
-<!--
-**doker78/doker78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in [Infini-T.ai](https://www.infini-t.ai/) 
+- ✨ Explore the [Github](https://github.com/doker78)
+- 🌱 Watching channels [CNCF-CKA](https://www.cncf.io/certification/cka/) and [AWS-SolutionsArchitect](https://explore.skillbuilder.aws/learn)
+- 👯 Collaborate with Argo Kubernetes Terraform projects
+- 😄 Help me with improve GitOps principles ..💬
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/boris-bogdan-shkarupelov)
